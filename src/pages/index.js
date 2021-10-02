@@ -122,7 +122,7 @@ const IndexPage = () => {
             style={linkStyle}
             href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
           >
-            {docLink.text}
+            {/* {docLink.text} */}
           </a>
         </li>
         {links.map(link => (
